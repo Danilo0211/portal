@@ -38,6 +38,14 @@ main.wrapper {
 p {
   margin: 1em; /* Top Right Bottom Left (TRBL) */
 }
+#about p::first-letter {
+  font-size: 2em;
+  font-weight: bold;
+  float: left;
+  margin-right: 3px;
+  color: #d35400; /* Using an orange tone to match your preferred theme */
+  line-height: 1;
+}
 
 h2{
   
