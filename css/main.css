@@ -53,13 +53,13 @@ h3{
 }
 
 a {
-  color: darkcyan;
+  color: rgb(189, 127, 5);
   text-decoration: none;
 }
 
 a:hover {
   color: whitesmoke;
-  background-color: darkcyan;
+  background-color: rgb(189, 127, 5);
   text-decoration: none;
 }
 
